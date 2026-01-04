@@ -10,7 +10,7 @@
 
 <br />
 
-> Portfolio-style documentation of secure infrastructure builds, hardening work, and detection/response engineering.
+> Documentation of secure infrastructure builds, hardening work, and detection/response engineering.
 
 </div>
 
