@@ -1,3 +1,6 @@
+![logo](https://i.postimg.cc/jjbt75jH/roadmap.png)
+
+
 Weeks 1–3 — Setup, baseline labs, DoD
 - W1: Repo scaffold + CI skeleton; create DoD templates files. Start Linux VM + Docker.
 - W2: AWS lab account prep (org, budget alerts, MFA); enable CloudTrail (trail to S3).
